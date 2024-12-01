@@ -7,6 +7,11 @@
 		"abi": [
 			{
 				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
 				"name": "get",
 				"outputs": [
 					{
@@ -60,11 +65,11 @@
 	},
 	"sources": {
 		"Project01/Hello.sol": {
-			"keccak256": "0xfa79bfa0e9d7acbb32774a2228765441c93b1fda3eb717ea515bea50f83e26aa",
+			"keccak256": "0xba21f5a552bfe9aa2ba586976b15811e0f8962ad89fb7ee5044a832e326a3de8",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://f6b7cf35ca688a5ef9315575cdb2fdebb791d45a8a3edeaa962753909ccd24e7",
-				"dweb:/ipfs/QmYoekw8e8yYmBfCCHRsb3hZJ64iJ7sR5XF8W69m2ntMho"
+				"bzz-raw://fdabcdfb65e722aabc8821edc654480a31d34c1c4ae048e9a2b3c41e399974f8",
+				"dweb:/ipfs/QmWm7su2aKVTa7CYegPwPcFPGsAA8Rqym51NgxZiu3CUoo"
 			]
 		}
 	},
